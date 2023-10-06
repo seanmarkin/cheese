@@ -1,0 +1,8 @@
+torch 
+torchvision
+torchaudio
+streamlit
+openai
+langchain
+pygame
+tkinter
