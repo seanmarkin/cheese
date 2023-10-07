@@ -6,3 +6,4 @@ openai
 langchain
 pygame
 tkinter
+Flet
